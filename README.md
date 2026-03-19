@@ -5,10 +5,9 @@
 ### **Train Driver Human–Object Interaction Recognition Based on Graph Parsing Neural Networks**
 
 <p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python"></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1.10+-ee4c2c.svg" alt="PyTorch"></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-Academic-green.svg" alt="License"></a>
-  <a href="#dataset"><img src="https://img.shields.io/badge/Dataset-1856_samples-orange.svg" alt="Dataset"></a>
+  <a href="#"><img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg" alt="arXiv"></a>
+  <a href="#dataset"><img src="https://img.shields.io/badge/Dataset-DriverHOI3D-blue" alt="Dataset"></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-97CA00.svg" alt="License"></a>
 </p>
 
 **[Kun Wang](mailto:)&ensp;·&ensp;[Haifeng Bao](mailto:hfbao@bjtu.edu.cn)*&ensp;·&ensp;Weining Fang**
