@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83e93155-b052-4a34-a4bf-f2d7cb58a28f" name="Erglab01">
+        <fileTransfer rootFolder="/home/wk" accessType="SFTP" sshConfigId="baeff635-0084-4ae8-a5fa-43dba7242e78" sshConfig="wk@srv-ai-01.caid.local:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a173147e-ee5b-4b57-b4af-7abbf6b59908" name="北京B851">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="1vvgpnubrz9xumrksnow.deepln.com" port="43863" sshConfigId="8b4e0814-354f-48a6-bc92-39de6c119082" sshConfig="root@1vvgpnubrz9xumrksnow.deepln.com:43863 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8d7a7d48-26c4-4113-be5d-2f282729ae6e" name="funhpc">
+        <fileTransfer accessType="SFTP" host="ymtjwxjdhomv3nsfsnow.deepln.com" port="54258" sshConfigId="c0793a75-c348-4a31-8d8f-e1fa9e0f386c" sshConfig="root@ymtjwxjdhomv3nsfsnow.deepln.com:54258 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@ymtjwxjdhomv3nsfsnow.deepln.com:54258 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Erglab01">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wk/wk/code/DriverHOI" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="funhpc">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/coding/DriverHOI_dev" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb2.seetacloud.com:13722 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/DriverHOI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb2.seetacloud.com:13722 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@ymtjwxjdhomv3nsfsnow.deepln.com:54258 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/coding/DriverHOI_dev" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wk/wk/wk/code/DriverHOI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@hpc.erglab.cn:2022 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@srv-ai-01.caid.local:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wk/wk/wk/code/DriverHOI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@srv-ai-01.caid.local:2222 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wk/wk/wk/code/DriverHOI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@srv-ai-01.caid.local:2222 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wk@srv-ai-02.caid.local:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wk/wk/wk/code/DriverHOI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="北京B851">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DriverHOI" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
