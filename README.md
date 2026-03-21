@@ -5,12 +5,12 @@
 ### **Train Driver Human–Object Interaction Recognition Based on Graph Parsing Neural Networks**
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg" alt="arXiv"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Paper-RESS-b31b1b.svg" alt="Paper"></a>
   <a href="#dataset"><img src="https://img.shields.io/badge/Dataset-DriverHOI3D-blue" alt="Dataset"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-97CA00.svg" alt="License"></a>
 </p>
 
-**[Kun Wang](mailto:)&ensp;·&ensp;[Haifeng Bao](mailto:hfbao@bjtu.edu.cn)*&ensp;·&ensp;Weining Fang**
+**[Kun Wang](mailto:23120254@bjtu.edu.cn)&ensp;·&ensp;[Haifeng Bao](mailto:hfbao@bjtu.edu.cn)*&ensp;·&ensp;[Weining Fang](mailto:wnfang@bjtu.edu.cn)**
 
 State Key Laboratory of Advanced Rail Autonomous Operation, Beijing Jiaotong University
 
@@ -89,7 +89,7 @@ DriverHOI3D/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/DriverHOI.git
+git clone https://github.com/wang-10086/DriverHOI.git
 cd DriverHOI
 pip install -r requirements.txt
 ```
