@@ -5,7 +5,7 @@
 ### **Train Driver Human–Object Interaction Recognition Based on Graph Parsing Neural Networks**
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Paper-RESS-b31b1b.svg" alt="Paper"></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0951832026005491"><img src="https://img.shields.io/badge/Paper-RESS-b31b1b.svg" alt="Paper"></a>
   <a href="#dataset"><img src="https://img.shields.io/badge/Dataset-DriverHOI3D-blue" alt="Dataset"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-97CA00.svg" alt="License"></a>
 </p>
